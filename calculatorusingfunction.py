@@ -1,7 +1,7 @@
 num1 = int(input("Enter a First Number: "))
 num2 = int(input("Enter a Second Number: "))
 operations = ['add', 'sub', 'multiply', 'divide']
-c = input("Choose Your Operation (add, sub, multiply, divide) : ")
+c = input("Choose Your Operation (addition, subtration, multiply, divide) : ")
 
 def add(a, b):
     return a + b
@@ -20,9 +20,9 @@ def divide(a, b):
 
 result = None
 if c in operations:
-    if c == 'add':
+    if c == 'addition':
         result = add(num1, num2)
-    elif c == 'sub':
+    elif c == 'subbtration':
         result = sub(num1, num2)
     elif c == 'multiply':
         result = multiply(num1, num2)
