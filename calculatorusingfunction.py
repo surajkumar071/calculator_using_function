@@ -3,7 +3,7 @@ num2 = int(input("Enter a Second Number: "))
 operations = ['add', 'sub', 'multiply', 'divide']
 c = input("Choose Your Operation (addition, subtration, multiply, divide) : ")
 
-def add(a, b).           :
+def add(a, b)          :
     return a + b
 
 def sub(a, b):
