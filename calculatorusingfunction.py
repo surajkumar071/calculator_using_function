@@ -1,4 +1,4 @@
-num1 = int(input("Enter a First Number: ")). vv. bb. b.  b
+num1 = int(input("Enter a First Number: ")). vv. bb. b. 
 num2 = int(input("Enter a Second Number: "))
 operations = ['add', 'sub', 'multiply', 'divide']
 c = input("Choose Your Operation (addition, subtration, multiply, divide) : ")
