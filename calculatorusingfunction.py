@@ -1,7 +1,7 @@
 
 
 
-v. nn. crt. jk. fifty. jk.
+v. nn. crt. jk. fifty.
 
 
 
