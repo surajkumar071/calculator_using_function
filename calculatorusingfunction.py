@@ -1,7 +1,7 @@
 
 
 
-v. nn. cr
+v. nn
 
 
 num1 = int(input("Enter a First Number: "))
