@@ -1,7 +1,7 @@
 
 
 
-ch. ch nn. bb FF n
+ch. ch nn. bb 
 
 
 
