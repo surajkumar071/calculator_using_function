@@ -1,7 +1,7 @@
 
 
 
-ch. ch nn. bb FF nk. kv. gg jj. BH
+ch. ch nn. bb FF nk. kv. gg jj
 
 
 
