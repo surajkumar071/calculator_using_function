@@ -1,5 +1,5 @@
 
-gh n. ch. kn nj. gb kn. n. vb n. v. n. h. 
+gh n. ch. kn nj. gb kn. n. vb n. v. n.
 
 
 
