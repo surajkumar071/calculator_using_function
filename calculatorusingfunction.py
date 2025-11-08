@@ -1,6 +1,5 @@
 
-gh n. ch.
-
+gh n
 
 
 
