@@ -1,6 +1,5 @@
 
-gh n. ch. kn nj. gb 
-
+gh n. ch. kn n
 
 
 
