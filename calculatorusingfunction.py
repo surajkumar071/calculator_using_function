@@ -2,7 +2,7 @@
 
 
 
-ch ki bu. h nn cc nj. ch ni. ch nj. h nn 
+ch ki bu. h nn cc nj. ch ni. ch nj. h
 
 
 
