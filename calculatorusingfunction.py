@@ -2,7 +2,7 @@
 
 
 
-ch ki bu. h nn 
+ch ki bu. 
 
 
 
