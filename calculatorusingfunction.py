@@ -2,8 +2,7 @@
 
 
 
-ch ki bu. 
-
+ch ki
 
 
 
