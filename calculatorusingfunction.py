@@ -1,4 +1,17 @@
 
+
+
+
+ch ki bu. h nn cc nj. ch ni. ch nj. h nn jj 
+
+
+
+
+
+
+
+
+
 num1 = int(input("Enter a First Number: "))
 num2 = int(input("Enter a Second Number: "))
 operations = ['add', 'sub', 'multiply', 'divide']
