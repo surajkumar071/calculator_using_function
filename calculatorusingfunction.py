@@ -1,15 +1,5 @@
 
 
-
-
-ch
-
-
-
-
-
-
-
 num1 = int(input("Enter a First Number: "))
 num2 = int(input("Enter a Second Number: "))
 operations = ['add', 'sub', 'multiply', 'divide']
