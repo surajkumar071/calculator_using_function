@@ -2,8 +2,7 @@
 
 
 
-diff git repository of circulars happening in the world of the 
-
+diff git repository of circulars happening in the world 
 
 
 
