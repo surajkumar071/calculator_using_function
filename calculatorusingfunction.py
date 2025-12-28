@@ -2,8 +2,7 @@
 
 
 
-diff git repo
-
+diff g
 
 
 num1 = int(input("Enter a First Number: "))
