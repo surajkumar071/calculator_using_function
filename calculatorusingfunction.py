@@ -2,7 +2,7 @@
 
 
 
-diff git repository o
+diff git repo
 
 
 
