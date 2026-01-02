@@ -3,7 +3,7 @@
 
 
 
-different types of
+different ty
 
 
 num1 = int(input("Enter a First Number: "))
