@@ -3,8 +3,7 @@
 
 
 
-different types of file att
-
+different types of
 
 
 num1 = int(input("Enter a First Number: "))
